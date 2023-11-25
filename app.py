@@ -10,7 +10,7 @@ def convert_c_to_f(celsius):
 
 
 @app.route('/')
-def hello_world():  # put application's code here
+def hello_world():
     return '<h1>Hello World :)</h1>'
 
 
